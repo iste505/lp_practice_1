@@ -1,0 +1,17 @@
+.intro-img img {
+  max-width: 100%;
+  margin: auto;
+}
+.header,
+.introduction {
+  background: var(--primary-main-background);
+}
+.bg-mobile {
+  background: url(/images/bg-curvy-mobile.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: local;
+  min-height: 500px;
+  margin-top: -345px;
+}
