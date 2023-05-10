@@ -1,0 +1,12 @@
+:root{
+    --primary-main-background: hsl(216, 53%, 9%);
+    --primary-footer-background: hsl(216, 53%, 9%);
+    --primary-testimonials-background:hsl(219, 30%, 18%);
+    --primary-forms-background: hsl(217, 28%, 15%);
+
+    --secondary-cyan: hsl(176, 68%, 64%);
+    --secondary-blue: hsl(198, 60%, 50%);
+    --secondary-error-red: hsl(0, 100%, 63%);
+}
+
+
