@@ -1,0 +1,6 @@
+1. Koristiti npm za instalaciju Bootstrapa
+2. Koristiti Git + .gitignore file ako je potrebno
+3. Koristiti Javascript za email signup formu
+4. Koristiti variable u CSS-u za boje, fontove, i slično da mozes jednostavno promijeniti + koristiti rem jedinice nakon sto postavis html font-size
+5. Koristiti animacije u CSS-u za smooth učitavanje slika ili nešto
+6. Koristiti gulp za nešto npr. - za automatsko minificiranje svih css i js datoteka, optimiziranje slika s imagemin, 
