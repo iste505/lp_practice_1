@@ -5,6 +5,7 @@
 .header,
 .introduction {
   background: var(--primary-main-background);
+  padding-bottom: 190px;
 }
 .bg-mobile {
   background: url(/images/bg-curvy-mobile.svg);
@@ -12,6 +13,6 @@
   background-repeat: no-repeat;
   background-size: contain;
   background-attachment: local;
-  min-height: 500px;
-  margin-top: -345px;
+  height: 100vh;
+  margin-top: -634px;
 }
