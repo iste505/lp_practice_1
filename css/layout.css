@@ -5,6 +5,8 @@
 .header,
 .introduction {
   background: var(--primary-main-background);
+  z-index: -2;
+  position: relative;
 }
 .bg-mobile {
   background: url(/images/bg-curvy-mobile.svg);
@@ -12,6 +14,17 @@
   background-repeat: no-repeat;
   background-size: contain;
   background-attachment: local;
-  min-height: 500px;
-  margin-top: -345px;
+  top: 0;
+  position: absolute;
+  z-index: -1;
+  height: auto;
+  bottom: 0;
+  background-position-y: bottom;
+  left: 0;
+  right: 0;
+}
+
+.benefits {
+  background: var(--secondary-main-background);
+  padding-top: 100px;
 }

@@ -1,3 +1,21 @@
-btn-2{
-    display: inline-block; border-radius: 25%; padding: 10px 25px; background: var(--secondary-cyan); color: white;
+.cta-btn {
+  margin: auto;
+  text-align: center;
+}
+
+.btn-2 {
+  display: inline-block;
+  border-radius: 25px;
+  padding: 10px 40px;
+}
+.btn-lp-cyan {
+  background: var(--secondary-blue);
+  color: white;
+  text-decoration: none;
+  width: 190px;
+}
+.btn-lp-cyan:hover {
+  font-weight: 700;
+  color: var(--font-color-primary);
+  background: var(--secondary-cyan);
 }
